@@ -1,0 +1,16 @@
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\bin\Debug\net5.0\optativa.exe
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\bin\Debug\net5.0\optativa.deps.json
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\bin\Debug\net5.0\optativa.runtimeconfig.json
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\bin\Debug\net5.0\optativa.runtimeconfig.dev.json
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\bin\Debug\net5.0\optativa.dll
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\bin\Debug\net5.0\ref\optativa.dll
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\bin\Debug\net5.0\optativa.pdb
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\obj\Debug\net5.0\optativa.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\obj\Debug\net5.0\optativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\obj\Debug\net5.0\optativa.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\obj\Debug\net5.0\optativa.AssemblyInfo.cs
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\obj\Debug\net5.0\optativa.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\obj\Debug\net5.0\optativa.dll
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\obj\Debug\net5.0\ref\optativa.dll
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\obj\Debug\net5.0\optativa.pdb
+C:\Users\alexa\Documents\POO\Labos\Optativa1\optativa\obj\Debug\net5.0\optativa.genruntimeconfig.cache
