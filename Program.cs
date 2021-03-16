@@ -19,7 +19,7 @@ namespace optativa
         }
         public static int AddNumbers(int a, int b)
         {
-            return a+b;
+            return a-b;
         }
     }
 }
