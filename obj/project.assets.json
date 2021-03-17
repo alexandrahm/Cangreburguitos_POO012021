@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alexa\\.nuget\\packages\\": {}
+    "C:\\Users\\Zepeda\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\Documents\\POO\\Labos\\Optativa1\\optativa\\optativa.csproj",
+      "projectUniqueName": "C:\\Users\\Zepeda\\Desktop\\POO0121\\Cangreburguitos_POO012021\\optativa.csproj",
       "projectName": "optativa",
-      "projectPath": "C:\\Users\\alexa\\Documents\\POO\\Labos\\Optativa1\\optativa\\optativa.csproj",
-      "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\Documents\\POO\\Labos\\Optativa1\\optativa\\obj\\",
+      "projectPath": "C:\\Users\\Zepeda\\Desktop\\POO0121\\Cangreburguitos_POO012021\\optativa.csproj",
+      "packagesPath": "C:\\Users\\Zepeda\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Zepeda\\Desktop\\POO0121\\Cangreburguitos_POO012021\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Zepeda\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

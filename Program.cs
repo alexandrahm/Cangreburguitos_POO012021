@@ -14,12 +14,12 @@ namespace optativa
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {a} + {b} equals {AddNumbers(a, b)} ");
+            Console.WriteLine($"Multiplying  {a} x {b} equals {MultiplicationNumbers(a, b)} ");
 
         }
-        public static int AddNumbers(int a, int b)
+        public static int MultiplicationNumbers(int a, int b)
         {
-            return a-b;
+            return a*b;
         }
     }
 }
